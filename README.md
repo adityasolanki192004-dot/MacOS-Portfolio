@@ -1,6 +1,6 @@
-# Shauryam Singh's Portfolio
+# Aditya Solanki 's Portfolio
 
-Welcome to the personal portfolio of **Shauryam Singh**, a Front End Developer specializing in Html, Css, JavaScript, React. This portfolio showcases my skills, projects, and experience in web development, highlighting my ability to create impactful, user-centric applications.
+Welcome to the personal portfolio of **Aditya Solanki**, a Front End Developer specializing in Html, Css, JavaScript, React. This portfolio showcases my skills, projects, and experience in web development, highlighting my ability to create impactful, user-centric applications.
 
 ## Features
 
@@ -56,4 +56,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-If you would like to get in touch, feel free to reach out via the contact form in the portfolio or send an email to [shauryamsingh9@gmail.com](mailto:shauryamsingh9@gmail.com).
+If you would like to get in touch, feel free to reach out via the contact form in the portfolio or send an email to [adityasolanki192004@gmail.com](mailto:adityasolanki192004@gmail.com).
